@@ -7,6 +7,6 @@ To map earthquake data in relation to tectonic plates on earth.  Included are di
 
 
 ### Docs
-TO review the map - https://whartzler.github.io/Mapping_earthquakes/
+To review the map - https://whartzler.github.io/Mapping_earthquakes/
 
-Static Folder includes the Challenge JS Code, and CSS Styling
+Static Folder - includes the Challenge JS Code, and CSS Styling
